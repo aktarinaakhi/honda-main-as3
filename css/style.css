@@ -1,0 +1,24 @@
+/* top header styles */
+.bg-header {
+  background-color: #264653;
+}
+.text {
+  color: #e0e0e0;
+}
+.btn-header {
+  background-color: #e76f51;
+  padding: 10px 46px;
+}
+
+/* clients part  */
+
+.client-card img {
+  width: 149px;
+}
+
+.fa-star {
+  color: #e77c40;
+}
+/* .bg-footer {
+  background-color: #264653;
+} */
